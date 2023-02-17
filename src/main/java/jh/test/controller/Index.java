@@ -10,6 +10,6 @@ public class Index {
 	@GetMapping("/")
 	@ResponseBody
 	public String helloworld() {
-		return "helloworld";
+		return "helloworld2222";
 	}
 }
